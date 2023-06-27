@@ -1,0 +1,14 @@
+*{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+body,  .text-cont{
+  display: flex;
+  justify-content: center;
+
+
+
+
+}
+
